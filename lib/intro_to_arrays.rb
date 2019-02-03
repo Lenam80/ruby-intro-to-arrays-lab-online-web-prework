@@ -1,9 +1,7 @@
 require './lib/intro_to_arrays.rb'
 describe "working with arrays" do
 
-  variable anywhere inside the block.
-      before(:each) do
-        @my_new_array = instantiate_new_array
+  
       end
 
       it "creates a new array and returns it" do
