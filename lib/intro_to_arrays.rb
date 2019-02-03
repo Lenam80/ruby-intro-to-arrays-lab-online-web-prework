@@ -1,7 +1,7 @@
 require './lib/intro_to_arrays.rb'
 describe "working with arrays" do
 
-  
+
       end
 
       it "creates a new array and returns it" do
